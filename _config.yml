@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Apoorva Kumar
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: The life of a bored robotocist
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["portfolio", "jekyll"]
 
 #
 ###################################
