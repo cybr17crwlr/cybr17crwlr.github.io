@@ -1,12 +1,1 @@
 <h1><span data-i18n="skills.my_skills">Skills</span></h1>
-<div>
-  {% for topic in site.data.index.skills %}
-    <div><h3>{{ topic.name }}</h3>
-      <ul>
-      {% for skills in topic.list %}
-        <li> {{ skills.skill }}
-      {% endfor %}
-      </ul>
-  </div>
-  {% endfor %}
-</div>
