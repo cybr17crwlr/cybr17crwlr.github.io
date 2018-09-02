@@ -4,7 +4,7 @@
 ####################################
 #
 title: Apoorva Kumar
-email:
+email: kr17apoorva@iitg.ac.in
 description: The life of a bored robotocist
 url: # the base hostname & protocol for your site
 keywords: ["portfolio", "jekyll"]
@@ -14,7 +14,7 @@ keywords: ["portfolio", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Kolkata
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -37,7 +37,7 @@ owner:
   avatar: me.jpg
   job: "A learning roboticist"
   bio: "Robotics and A.I. Enthusiast | Pre-Final Year Undergrad IIT Guwahati | Robotics Club Secretary | Avid Learner"
-  email:
+  email: kr17apoorva@iitg.ac.in
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: cybr17crwlr
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: kr17apoorva
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: crwlr_apoorva17
   lastfm: #username
   tumblr: #username
   pinterest: #username
