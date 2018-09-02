@@ -1,10 +1,18 @@
 ---
 layout: default
 ---
-
-<a class="btn" href= "{{ site.url }}/" >
-  Home
-</a>
+<div class="share-buttons">
+  <ul>
+    <li><a class="btn" href= "{{ site.url }}/posts/" >
+      Posts
+    </a>
+    </li>
+    <li><a class="btn btn-info" href= "{{ site.url }}/posts/" >
+        Home
+        </a>
+    </li>
+  </ul>
+</div>
 {% if page.image.feature %}
 <div class="post-image-feature">
   <img class="feature-image" src=
