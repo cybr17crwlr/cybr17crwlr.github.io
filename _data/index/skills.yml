@@ -4,7 +4,7 @@ label: Ability
 id : cs
 aspects: Motivation, GitHub, Java, HTML/CSS, Docker, Python
 percentage: 90, 65, 70, 60, 60, 55
-id1 : cs
+id1 : non-cs
 aspects1: Gaming, GitHub, Java, HTML/CSS, Docker, Python
 percentage1: 100, 65, 70, 60, 60, 55
 
