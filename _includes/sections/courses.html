@@ -3,7 +3,7 @@
    {% for coursehead in site.data.index.courses %}
     <h3>{{ coursehead.name }}</h3>
     <ul>
-    {% for skillname in skillset.list %}
+    {% for skillname in coursehead.list %}
       <li> {{ skillname }}
     {% endfor %}
     </ul>
