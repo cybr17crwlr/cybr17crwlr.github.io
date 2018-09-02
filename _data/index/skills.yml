@@ -5,6 +5,6 @@
         
 - name: Programming
   list: [Python,C++/C,Java,Unity3D]
-
-- name: Python Libraries
-  list: [Tensorflow,Keras,Numpy,Requests]
+  
+- name: Operating Systems
+  list: [Windows, Linux]
