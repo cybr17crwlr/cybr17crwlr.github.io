@@ -3,7 +3,5 @@
 
 - name: Miscellaneous
   list: [Android App Development,Web-Requests Handling]
-  
-- name: Operating Systems
-  list: [Windows, Linux]
+
 
