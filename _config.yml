@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: Apoorva Kumar
-  avatar: leonids-logo.png
+  avatar: me.jpg
   job: "A shit guy"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "I am a Robotics and Aritifical Intelligence pusruing my undegraduate degree in Electronics and Electrical Engineering at IIT Guwahati with minor in Computer Sciences and Engineering. \n Currently working as the secretary of Robotics Club my complete reserach intrest lies in the field of Robotics and applications of AI in the same. \n I am proficient in the use of robtics development frameworks like ROS and have quite good expreince working with sensors ranging from IMU's to RGBD Cameras. \n I am adept to code in Python(expreice in Keras, Tensorflow, and web-requests modeules), Java and C++."
   email:
   disqus-shortname:
   twitter: #username
