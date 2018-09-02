@@ -1,1 +1,9 @@
+- name: Hardware
+  list: [Arduino,Raspberry-Pi,IMU Sensors,Camera,RGBD Camera,Motors And Encoders]
+
+- name: Miscellaneous
+  list: [Android App Development,Web-Requests Handling]
+  
+- name: Operating Systems
+  list: [Widnows, Linux]
 
