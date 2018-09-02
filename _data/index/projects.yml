@@ -5,12 +5,12 @@
   period: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   
 - name: Sub-Domaina and Open-Port Scanner
-  descr: This project was part of my internship at Appsecure during the Summers of 2018. In this project first of all I built a module to a combined software for active sub-domain and port scanning for web-servers. Later using Machine Learning techniques and the above mentioned scanner on websites, trained a model to predict the presence of a word in the web-server directory or sub-domain.
+  descr: This project was part of my Internship at Appsecure during the Summers of 2018. In this project first of all I built a module to a combined software for active sub-domain and port scanning for web-servers. Later using Machine Learning techniques and the above mentioned scanner on websites, trained a model to predict the presence of a word in the web-server directory or sub-domain.
   auth: AppSecure
   period: May 2018 - July 2018
   
 - name: Technologies for Soldier Support- Health Monitoring System
-  descr: Started this project to present in Inter-Hostel Competition later went on to present this project in the Technologies For Soldier Support Competition at the 5th Inter-IIT TechMeet representing my campus of IIT Guwahati at a national level. This project was built using MEMS Sensors namely <a href="https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/">MPU9250</a>, <a href="https://www.maximintegrated.com/en/products/sensors/MAX30205.html">Temperature Sensor</a>,<a href="https://www.sparkfun.com/products/11574">Heart Rate</a> sensor to predict the physical state of ability and inability of a soldier during any battle. Build with a <a href="https://en.wikipedia.org/wiki/ESP8266">ESP8266</a> it transmitted data of the soliders condition to base station.
+  descr: Started this project to present in Inter-Hostel Competition ,later went on to present this project at the 5th Inter-IIT TechMeet representing my campus of IIT Guwahati at a national level. This project was built using MEMS Sensors namely <a href="https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/">MPU9250</a>, <a href="https://www.maximintegrated.com/en/products/sensors/MAX30205.html">Temperature Sensor</a>,<a href="https://www.sparkfun.com/products/11574">Heart Rate</a> sensor to predict the physical state of ability and inability of a soldier during any battle. Build with a <a href="https://en.wikipedia.org/wiki/ESP8266">ESP8266</a> it transmitted data of the soliders condition to base station.
   github: https://github.com/RCIITG/Technologies-for-Soldier-Support
   auth: 5th Inter IIT TechMeet 
   period: Dec 2017 - Jan 2018
