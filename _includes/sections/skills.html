@@ -1,27 +1,38 @@
 <h1><span data-i18n="skills.my_skills">Skills</span></h1>
+<div>
+  {% for skillset in site.data.index.skills %}
+    <h3>{{ skillset.name }}</h3>
+    <ul>
+    {% for skillname in skillset.list %}
+      <li> {{ skillname }}
+    {% endfor %}
+    </ul>
+  {% endfor %}
+</div>
+
 <div class="row">
-  <div class="col 5">
-    <div class="row">
-  {% for skillset in site.data.index.skills %}
-    <h3>{{ skillset.name }}</h3>
-    <ul>
-    {% for skillname in skillset.list %}
-      <li> {{ skillname }}
-    {% endfor %}
-    </ul>
-  {% endfor %}
+    <div class="col l7">
+        <div class="row">
+            <div class="col">
+                {% include sections/about.html %}        
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col">
+                {% include sections/projects.html %}
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="col 5">
-    <div class="row">
-  {% for skillset in site.data.index.skills %}
-    <h3>{{ skillset.name }}</h3>
-    <ul>
-    {% for skillname in skillset.list %}
-      <li> {{ skillname }}
-    {% endfor %}
-    </ul>
-  {% endfor %}
+
+    <div class="col l4 offset-l1">
+        <div class="row">
+            {% include sections/career.html %}    
+        </div>
+        <div class="row">
+            {% include sections/education.html %}    
+        </div>
     </div>
-  </div>
+    
+
 </div>
