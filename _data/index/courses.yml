@@ -1,8 +1,8 @@
 - name: Electrical and Electronics
-  list: ["Signal, Systems and Networks","Semi-Conductor Devices","Digital Systems and Microprocessors","Probability and Random Processes","Principles of Communication"]
+  list: [Signal, Systems and Networks,Semi-Conductor Devices,Digital Systems and Microprocessors,Probability and Random Processes,Principles of Communication]
   
 - name: Computer Science
-  list: ["Game Theory","Introduction to Computing","Formal Automata","Data Structures and Algorithms"]
+  list: [Game Theory,Introduction to Computing,Formal Automata,Data Structures and Algorithms]
   
 - name: Mathematics
   list: [Linear Algebra,Real Analysis,Vector Calculus,Basic Calculus,Discrete Maths]
