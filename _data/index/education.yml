@@ -1,15 +1,18 @@
 - name: Indian Institute of Technology
+  edu: Major in Electronics and Electrical Engineering
   link: http://www.iitg.ac.in/
   date: 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   descr: <br> (expected graduation in 2019)
   grade: 8.13/10
 
 - name: St. Michaels High School
+  edu: XIIth from CBSE
   link: http://www.stmichaelspatna.edu.in/
   date: 2013 - 2015
   grade: 95.2%
 
 - name: Don Bosco Academy
+  edu: Xthe from ICSE
   link: https://www.donboscopatna.com/
   date: 2002 - 2013
   grade: 94.2%
