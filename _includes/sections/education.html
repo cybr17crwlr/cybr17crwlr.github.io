@@ -5,9 +5,10 @@
   <div class="timeline" id="timeline">
     {% for career in site.data.index.education %}
           <div class="archive-title bio">
-            <div class="education-type">{{ career.edu }}</div>
-            <div class="archive-year"> <a href="{{ career.link }}">{{ career.name }}</a> | <strong>{{ career.date }}</strong>
+            <div class="education-type"><a href="{{ career.link }}">{{ career.name }}</a>
+            <div class="archive-year">{{ career.edu }} | <strong>{{ career.date }}</strong>
             <div class="grade">Grade: <strong>{{ career.grade }}</strong>
+            </div>
             </div>
             </div>
           </div>
