@@ -4,7 +4,7 @@
   auth: 4i Labs, IIT Guwahati
   period: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   
-- name: Sub-Domaina and Open-Port Scanner
+- name: Sub-Domains and Open-Port Scanner
   descr: This project was part of my Internship at Appsecure during the Summers of 2018. In this project first of all I built a module to a combined software for active sub-domain and port scanning for web-servers. Later using Machine Learning techniques and the above mentioned scanner on websites, trained a model to predict the presence of a word in the web-server directory or sub-domain.
   auth: AppSecure
   period: May 2018 - July 2018
