@@ -1,15 +1,8 @@
 # skills section data
 
 - name: Robotics
-  list: - skill: ROS
-        - skill: OpenCV
-        - skill: Gazebo
-        - skill: Rviz
+  list: [ROS,Gezebo,OpenCV,Rviz]
         
 - name: Programming
-  list: - skill: Python
-        - skill: Java
-        - skill: C++
-        - skill: C
-        - skill: Unity3D
+  list: [Python,C++/C,Java,Unity3D]
 
