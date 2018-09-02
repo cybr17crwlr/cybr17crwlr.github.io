@@ -11,7 +11,7 @@ Leonids features a simple resume page. It is divided up into five sections:
 
 * Bio (Edit \_data/index/careers.yml)
 * Education (Edit \_data/index/education.yml)
-* Skills (Edit \_data/index/skills.yml and \_data/index/skills1.yml)
+* Skills (Edit \_data/index/skills.yml and \_data/index/skills2.yml)
 * Projects (Edit \_data/index/projects.yml)
 * About (Edit \_includes/sections/about.html)
 * Courses (Edit \_data/index/courses.html)
