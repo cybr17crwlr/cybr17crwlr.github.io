@@ -1,22 +1,28 @@
 ---
 layout: post
-title: Gaming and Me
+title: My Expriements with Gaming
 excerpt: "Well I have played a lot of games but now I am no more a gamer."
-categories: [life,]
+categories: [life,gaming]
 comments: true
 image:
   feature: https://wallpaperstock.net/game-over-poster_wallpapers_38452_1280x1024.jpg
 ---
 
 Starting with the excerpt itself I would like to highlight that I have played a lot of games. And by games here I mean video games from the ones ranging from TV video games with cassettes to computer games on DVDs and even downloaded a ton of them from torrents. **BUT I AM NO MORE A GAMER.** 
+
 Since childhood, my parents were not like those typical parents who thought gaming is a useless mode of entertainment. To be honest it was actually my dad who introduced me to gaming when he himself bought a graphics card for our home PC back in 2008 and took me to a shop which was known as "GAMES WORLD" and bought me the Prince of Persia 2008 game with 5 other games. Interesting right!! well yeah, my dad has been one hell of a pop culture fan. **Jurassic Park** to **Tom Cruise** to **The Dark Knight Returns** I have seen all of these movies with him on his demand. Never did he ever miss any such good movies when he was in his prime. Well not deviating from the path though I was telling how lucky I was as a child in-short.
+
 My craze for gaming started increasing exponentially and mom sensed the danger. Dad was still one of those who would get me games from the market even when I didn't ask him to on occasions even hiding it from my mom(which I thought was true later finding out that he told everything to her and even got scolded at times for it). Though he still had that one restriction of playing the game only for an hour that too on alternate days.
+
 This addition grew to dangerous levels and I used to beg to play games every time I was free and when refused to do so would fight or not have food. Hiding and playing or playing when mom dad went out became a vice I didn't find wrong.
+
 Then came the period of my JEE when I shifted from computer gaming to mobile gaming and started playing the so-called *Free to Play* Marvel Future Fight. For one year I was all calm and cool just playing the game even while studying hiding it from the sight of my parents. Putting the game on auto-play to grind and collect upgrades but later on even spending 2k on the game. Yeah, that was all calm and cool for me until the result of JEE Advanced 2015. Seems like a cliched story of a guy going mad by addiction until realization hits and then either he has destroyed his life too much to recover or he turns out to be an eyeopener for him and he goes on to be a legend in his small world. Well, none happened to me as I dropped a year, still gaming at the same pace and cracked JEE Advanced by a much better rank and got selected for IIT Guwahati.
 
 > Seems like a cliched story of a guy going mad by addiction until realization hits and then either he has destroyed his life too much to recover or he turns out to be an eyeopener for him and he goes on to be a legend in his small world. 
 
 Dad was on cloud nine and bought me a gaming laptop for **1.2Lakhs**. With all the high-end specs of that time and I was like now I am free and I will play a lot of games. Completed 3 games even before campus started but that's where it all ended. 
+
 Beginning of college life. Seems like a world of full of freedom with no one stopping you from doing anything( hints at Gaming). That's some absolutely beautiful picture people have painted for the outside world. When I came here I was equipped with a gaming controller, a gaming laptop, and 2 gaming mice. Well to my surprise the battery of the mice are still running and that of the controller got finished two days ago by some neighbor of mine who has had my controller for I don't know how long. It was at this info that I realized how this college life has molded me and how it changed me. For the better or worse I still don't know. 
 As of now, I can honestly say I am no more a gamer I considered myself before. From having 75% of my phone memory covered with 2-3 heavy games I now have like 2 games which I play when I neither have friends nor internet. On PC I still have games covering like 50% of the total hard disk but not even one of them has story mode progress beyond 5%.
+
 You might consider that I am cured and that I should be happy. Well, to be honest, I consider myself more unlucky than anyone because leaving the virtual world for the real world made me realize that the life of a virtual guy was so simple and happy and he would defeat all bosses in his story and would kill every possible bad guy in the end. Somewhere that hope of imitating that life was the one that kept me running and progressing and now I have lost all of that. To what well that you will understand when you will also have leveled up this far in life that you forget the small upgrades you started with.
