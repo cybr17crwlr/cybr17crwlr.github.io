@@ -5,7 +5,7 @@ excerpt: "Well I have played a lot of games but now I am no more a gamer."
 categories: [life,gaming]
 comments: true
 image:
-  feature: {{ site.url }}/img/PostA.jpg
+  feature: https://{{ site.url }}/img/PostA.jpg
 ---
 
 Starting with the excerpt itself I would like to highlight that I have played a lot of games. And by games here I mean video games from the ones ranging from TV video games with cassettes to computer games on DVDs and even downloaded a ton of them from torrents. **BUT I AM NO MORE A GAMER.** 
