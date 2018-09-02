@@ -1,13 +1,11 @@
 <h1><span data-i18n="skills.my_skills">Skills</span></h1>
 <div>
   {% for skillset in site.data.index.skills %}
-  <div>
     <h3>{{ skillset.name }}</h3>
     <ul>
     {% for skillname in skillset.list %}
       <li> {{ skillname }}
     {% endfor %}
     </ul>
-  </div>
   {% endfor %}
 </div>
