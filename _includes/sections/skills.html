@@ -31,8 +31,10 @@
         legend: {display: false},
     }
     });
-    var ctx1 = document.getElementById("{{ site.data.index.skills.id1 }}");
-    var data1 = {
+</script>
+<script>
+    var ctx = document.getElementById("{{ site.data.index.skills.id1 }}");
+    var data = {
     labels: "{{ site.data.index.skills.aspects1 }}".split(","),
     datasets: [{
         label: "{{ site.data.index.skills.label }}",
@@ -45,9 +47,9 @@
         data: [{{ site.data.index.skills.percentage1 }}]
         }]
     };
-    var myRadarChart1 = new Chart(ctx1, {
+    var myRadarChart = new Chart(ctx, {
     type: 'radar',
-    data: data1,
+    data: data,
     options: {
         scale: {
             responsive: true,
