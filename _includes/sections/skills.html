@@ -30,4 +30,18 @@
         legend: {display: false},
     }
     });
+    var myRadarChart1 = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: {
+        scale: {
+            responsive: true,
+            ticks: {min: 0, max: 100},
+            lineArc: false,
+            pointLabels: {fontSize: 14},
+        },
+        scaleFontSize: 0,
+        legend: {display: false},
+    }
+    });
 </script>
