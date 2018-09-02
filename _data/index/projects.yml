@@ -1,4 +1,5 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
+- name: Automated Robot for Library Enhancement(ARLE)
+  descr: "Working to completely automate the library of IIT Guwahati.Presently working on designing the self-driving vehicle to traverse the library.Implemented RGBD-Camera(Kinect V2) using iai_kinect2 for 3d point cloud segmentation."
   github: https://github.com/renyuanz/leonids
+  auth: 4i Labs, IIT Guwahati
+  period: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
