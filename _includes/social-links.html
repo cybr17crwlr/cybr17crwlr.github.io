@@ -7,10 +7,10 @@
     rhs = p[1];
     document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
     document.write(":" + lhs + "@");
-    document.write(rhs + "?subject=" + subject + "\"><h2><i class=\"fa fa-fw fa-envelope\"></i></h2><\/a>");
+    document.write(rhs + "?subject=" + subject + "\"><h3><i class=\"fa fa-fw fa-envelope\"></i></h3><\/a>");
   }
 </script>
-<div class="social-links"><h2>
+<div class="social-links"><h3>
   <ul>
     {% if author.email %}
       <li>
@@ -42,5 +42,5 @@
     {% if author.reddit %}<li><a href="https://reddit.com/user/{{ author.reddit }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-reddit"></i></a></li>{% endif %}
     {% if author.telegram %}<li><a href="https://t.me/{{ author.telegram }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-telegram"></i></a></li>{% endif %}
   </ul>
-  </h2>
+  </h3>
 </div>
