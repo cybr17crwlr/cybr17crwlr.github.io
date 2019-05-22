@@ -3,8 +3,8 @@
 {% for project in site.data.index.projects %}
     <div class="row">
             <div class="col">
-                <div><h3 style="margin: 0">{{ project.name }}</h3></div>
-                <div><h6>{{ project.auth }} | {{ project.period }}</h6></div>
+                <div><h3 style="margin: 0">{{ project.name }}</h3><p>
+                <h6>{{ project.auth }} | {{ project.period }}</h6></div>
                 <p style="margin: 0">{{ project.descr }}</p>
 
                 {% if project.github %}
@@ -18,5 +18,6 @@
                 {% endif %}
 
             </div>
+        <p>
     </div>
 {% endfor %}
