@@ -1,6 +1,8 @@
 - name: Automated Robot for Library Enhancement(ARLE)
   descr: This was a project undertaken by a team of 9 members(friends) to add to the already in-action automation of Library of IIT Guwahati. We are currently working on creating a self driving bot to autonomously traverse the library with the teams presently working on interfacing the sensors with ROS and extracting data from it. We are currently working on a SAFWR ( Simple Autonomous Four Wheeled Robot) using an <a href="https://click.intel.com/intelr-realsensetm-depth-camera-d435.html">Intel Realsense D435</a>. Our final aim to build a robot which can pick and place misplaced books in the library into there correct shelves.
   github: https://github.com/RCIITG/ARLE
+  website: https://4ilabs-iitg.github.io/projects/project1/
+  youtube: https://youtu.be/51S_pQePftE
   auth: 4i Labs, IIT Guwahati
   period: Jul 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   
