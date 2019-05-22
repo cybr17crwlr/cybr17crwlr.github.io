@@ -1,5 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Strato IT, Protec Inc., Korea
+  date: May 2019 - July 2019
+  job: Robotics and Deep Learning Intern
+  area: Anyang, South Korea
+
 - name: Robotics Club, IIT Guwahati
   link: https://github.com/RCIITG
   date: April 2018 - April 2019
