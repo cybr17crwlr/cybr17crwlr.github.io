@@ -3,6 +3,12 @@
   github: https://github.com/cybr17crwlr/Soil-Testing-Bot
   auth: 7th Inter IIT TechMeet 
   period: Nov 2018 - Dec 2018
+  
+- name: Eye In The Sky
+  descr: <a href="https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used">Remote sensing</a> is the science of obtaining information about objects or areas from a distance, typically from aircraft or satellites.We realized the problem of satellite image classification as a < a href="https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">semantic segmentation</a> problem and built semantic segmentation algorithms in deep learning to tackle this. We implemented 4 different algorithms UNet - GT with RGB channels, PSPNet - GT with RGB channels, UNet with One Hot Encoded GT, PSPNet with One Hot Encoded GT. We were able to achieved maximum accuracy with a Modified U-net with Batch Normalization and One Hot encoded Ground Truth. We were provided with training data for the problem statement consisting of 13 images containing 4 channel on which we had to train to classify 8 classes namely Roads, Buildings, Trees, Grass, Bare Soil, Water, Railways and Swimming pools and a ninth class as unclassified.
+  github: https://github.com/manideep2510/eye-in-the-sky
+  auth: 7th Inter IIT TechMeet 
+  period: Nov 2018 - Dec 2018
 
 - name: Automated Robot for Library Enhancement(ARLE)
   descr: This was a project undertaken by a team of 9 members(friends) to add to the already in-action automation of Library of IIT Guwahati. We are currently working on creating a self driving bot to autonomously traverse the library with the teams presently working on interfacing the sensors with ROS and extracting data from it. We are currently working on a SAFWR ( Simple Autonomous Four Wheeled Robot) using an <a href="https://click.intel.com/intelr-realsensetm-depth-camera-d435.html">Intel Realsense D435</a>. Our final aim to build a robot which can pick and place misplaced books in the library into there correct shelves.
