@@ -77,7 +77,7 @@
     *display: inline;
     zoom: 1;
     &:after {
-      content: '  ';
+      content: '<&nbsp><&nbsp>';
     }
     &:last-child:after {
       content: '';
