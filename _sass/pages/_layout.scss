@@ -77,7 +77,7 @@
     *display: inline;
     zoom: 1;
     &:after {
-      content: '  ';
+      content: '                                                  ';
     }
     &:last-child:after {
       content: '';
