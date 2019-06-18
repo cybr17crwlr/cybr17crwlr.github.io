@@ -28,6 +28,6 @@ As of now, I can honestly say I am no more a gamer I considered myself before. F
 
 You might consider that I am cured and that I should be happy. Well, to be honest, I still have mixed feelings for the same. Leaving the virtual world for the real world took a really big toll on me. Making me realize that the life of a virtual guy was so simple and happy and he would defeat all bosses in his story and would kill every possible bad guy in the end. Somewhere that hope of imitating that life was the one that kept me running and progressing. 
 
-> Gamers don't die. They Respwan
+> Gamers don't die. They Respawn
 
-I too wish **CybrCrwlr** respwans some day with all hopes to control the sands of time with augmentations in the land of dragons.
+I too wish **CybrCrwlr** respawns some day with all hopes to control the sands of time with augmentations in the land of dragons.
