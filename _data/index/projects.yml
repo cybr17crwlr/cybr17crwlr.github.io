@@ -1,4 +1,4 @@
-- name: Soil Estimation Robot
+- name: Soil Nutrient Estimation Robot
   descr: A project aimed at easing the task of farmers for testing of soil while simultaneously preventing the wastage of fetrilizers and also preventing overfertilization. This project was presented to Tata Centre for Technological Development for a problem statement which demanded solution for drugery of indian farming. In among the 23 IITs competing this project secured a bronze medal. This model collects soil sample and using its solution and the techniques of <a href="https://en.wikipedia.org/wiki/Colorimetry">Colorimetry</a> via a simple LDR and RGB-LED it measures Nitrogen-Phosphorus-Potassium content in soil for small patches acorss the farm land and suggests farmers the optimal amount of fertilizer and even the proportion of fertilizers to mix for each part of the farm.
   github: https://github.com/cybr17crwlr/Soil-Testing-Bot
   auth: 7th Inter IIT TechMeet 
